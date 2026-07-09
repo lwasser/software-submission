@@ -9,7 +9,7 @@ assignees: ''
 
 ## What is this?
 
-To make the review process easier and to help you maintain your package, pyOpenSci requires testing, continuous integration, and full documentation for packages submitted for review (read more [in our Python packaging guide][PackagingGuide]. We want to make this as easy as possible for newcomers, so if you'd like some help in prepping your package you can submit this request and we'll assign someone to help you out!
+To make the review process easier and to help you maintain your package, pyOpenSci requires testing, continuous integration, and full documentation for packages submitted for review (read more [about testing and CI requirements][PackagingGuide]. We want to make this as easy as possible for newcomers, so if you'd like some help in prepping your package you can submit this request and we'll assign someone to help you out!
 
 Before submitting a request, check out our [Packaging Guide][PackagingGuide]. The answers to your questions might be there already.
 
@@ -51,10 +51,14 @@ Repository Link (if existing):
 
 - Explain briefly below if there's something specific you'd like help with:
 
-- Any other questions or issues we should be aware of?:
+- Any other questions or issues we should be aware of?
+
+
+**P.S.** Have feedback/comments about our review process? Leave a comment [on our GitHub Discussions.][Comments]
 
 
 [PackagingGuide]: https://www.pyopensci.org/python-package-guide/
 
 [PackageCategories]: https://www.pyopensci.org/software-peer-review/about/package-scope.html
 
+[Comments]: https://github.com/orgs/pyOpenSci/discussions
